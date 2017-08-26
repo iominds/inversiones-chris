@@ -75,6 +75,14 @@ iframe {
   border: 0 allowfullscreen;
   border-radius: 5px; }
 
+.redes-sociales {
+  list-style: none; }
+  .redes-sociales li {
+    display: inline-block; }
+    .redes-sociales li a {
+      margin: 20px;
+      font-size: 25px; }
+
 footer {
   font-size: 14px;
   text-align: center; }
