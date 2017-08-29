@@ -8,6 +8,9 @@
 nav {
   font-family: "Lora", serif; }
 
+.navbar-brand {
+  font-family: arcade; }
+
 .textoslide {
   font-family: arcade;
   font-size: 60px;
