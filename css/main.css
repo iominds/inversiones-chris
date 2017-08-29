@@ -96,5 +96,20 @@ footer {
 @font-face {
   font-family: arcade;
   src: url("../fonts/ARCADE.ttf"); }
+.logo {
+  width: 250px;
+  height: 250px; }
+
+.letras {
+  width: 60%;
+  height: 40px; }
+
+.rede-sociales {
+  list-style: none; }
+  .rede-sociales a {
+    font-size: 20px;
+    line-height: 2; }
+    .rede-sociales a:hover {
+      text-decoration: none; }
 
 /*# sourceMappingURL=main.css.map */
