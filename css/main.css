@@ -8,8 +8,10 @@
 nav {
   font-family: "Lora", serif; }
 
-.navbar-brand {
-  font-family: arcade; }
+.textoslide {
+  font-family: arcade;
+  font-size: 60px;
+  letter-spacing: 0.1em; }
 
 footer {
   font-size: 14px;
@@ -87,6 +89,9 @@ iframe {
     .redes-sociales li a {
       margin: 20px;
       font-size: 25px; }
+
+.d-block {
+  height: 420px; }
 
 footer {
   background-color: #CFD8DC;
