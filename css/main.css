@@ -9,18 +9,15 @@ nav {
   font-family: "Lora", serif; }
 
 .navbar-brand {
-  font-family: arcade; }
-
-body, html {
-  height: 100%;
+  font-family: arcade;
   /* The hero image */ }
 
+body, html {
+  height: 100%; }
+
 .hero {
-  /* The image used */
   background-image: url("../img/hero.png");
-  /* Set a specific height */
   height: 50%;
-  /* Position and center the image to scale nicely on all screens */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -33,11 +30,6 @@ body, html {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white; }
-
-.textoslide {
-  font-family: arcade;
-  font-size: 60px;
-  letter-spacing: 0.1em; }
 
 @font-face {
   font-family: arcade;
@@ -77,12 +69,6 @@ body, html {
   font-family: "Lora", serif;
   letter-spacing: 0.1em; }
 
-.ic {
-  font-family: Arcade;
-  font-size: 50px;
-  color: #004480;
-  letter-spacing: 0.2em; }
-
 .qs {
   font-size: 50px;
   color: black;
@@ -117,9 +103,6 @@ iframe {
       margin: 20px;
       font-size: 25px; }
 
-.d-block {
-  height: 500px; }
-
 footer {
   background-color: #343a40;
   font-size: 14px;
@@ -134,14 +117,6 @@ footer {
 @font-face {
   font-family: arcade;
   src: url("../fonts/ARCADE.ttf"); }
-.logo {
-  width: 250px;
-  height: 250px; }
-
-.letras {
-  width: 60%;
-  height: 40px; }
-
 p {
   font-family: "lora", serif; }
 
