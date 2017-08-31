@@ -9,91 +9,7 @@ nav {
   font-family: "Lora", serif; }
 
 .navbar-brand {
-  font-family: arcade;
-  /* The hero image */ }
-
-body, html {
-  height: 100%; }
-
-.hero {
-  background-image: url("../img/hero.png");
-  height: 50%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  /* Place text in the middle of the image */ }
-
-.hero-text {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white; }
-
-@font-face {
-  font-family: arcade;
-  src: url("../fonts/ARCADE.ttf"); }
-body, html {
-  height: 100%; }
-
-/* The hero image */
-.hero-image {
-  /* The image used */
-  background-image: url(../img/img1.jpg);
-  /* Set a specific height */
-  height: 50%;
-  /* Position and center the image to scale nicely on all screens */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative; }
-
-/* Place text in the middle of the image */
-.hero-text {
-  text-align: left;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-  width: 100%; }
-
-.lista {
-  margin-left: 15px;
-  float: left; }
-
-.text {
-  font-size: 28px;
-  color: white;
-  font-family: "Lora", serif;
-  letter-spacing: 0.1em; }
-
-.qs {
-  font-size: 50px;
-  color: black;
-  font-family: "Lora", serif;
-  letter-spacing: 0.1em; }
-
-.pad {
-  padding: 5px; }
-
-.tx {
-  font-size: 28px;
-  color: black;
-  font-family: "Lora", serif;
-  letter-spacing: 0.1em; }
-
-.inf {
-  font-size: 17px;
-  font-family: "Lora", serif;
-  text-transform: lowercase; }
-
-iframe {
-  width: 100%;
-  frameborder: 0;
-  border: 0 allowfullscreen;
-  border-radius: 5px; }
+  font-family: arcade; }
 
 .redes-sociales {
   list-style: none; }
@@ -117,6 +33,33 @@ footer {
 @font-face {
   font-family: arcade;
   src: url("../fonts/ARCADE.ttf"); }
+.hero {
+  /* The image used */
+  background-image: url(../img/hero.png);
+  height: 50%;
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative; }
+
+/* Place text in the middle of the image */
+.lista {
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 100%;
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white; }
+
+@font-face {
+  font-family: arcade;
+  src: url("../fonts/ARCADE.ttf"); }
 p {
   font-family: "lora", serif; }
 
@@ -128,5 +71,61 @@ p {
     line-height: 2; }
     .rede-sociales a:hover {
       text-decoration: none; }
+
+.pad {
+  padding: 5px; }
+
+/* The hero image */
+body, html {
+  height: 100%; }
+
+.hero-image {
+  /* The image used */
+  background-image: url(../img/img1.jpg);
+  height: 50%;
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative; }
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  width: 100%; }
+
+.text {
+  font-size: 28px;
+  color: white;
+  font-family: "Lora", serif;
+  letter-spacing: 0.1em; }
+
+.qs {
+  font-size: 50px;
+  color: black;
+  font-family: "Lora", serif;
+  letter-spacing: 0.1em; }
+
+.tx {
+  font-size: 28px;
+  color: black;
+  font-family: "Lora", serif;
+  letter-spacing: 0.1em; }
+
+.inf {
+  font-size: 17px;
+  font-family: "Lora", serif;
+  text-transform: lowercase; }
+
+iframe {
+  width: 100%;
+  frameborder: 0;
+  border: 0 allowfullscreen;
+  border-radius: 5px; }
 
 /*# sourceMappingURL=main.css.map */
