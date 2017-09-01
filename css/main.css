@@ -62,6 +62,12 @@ footer {
 .card-text {
   text-align: center; }
 
+.imgcard {
+  padding: 10px; }
+
+.textcard:hover {
+  color: green; }
+
 @font-face {
   font-family: arcade;
   src: url("../fonts/ARCADE.ttf"); }
