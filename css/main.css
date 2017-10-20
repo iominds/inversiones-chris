@@ -143,4 +143,10 @@ iframe {
   margin: 10px;
   padding: 2px; }
 
+.formulario-de-contacto {
+  color: #007bff; }
+  .formulario-de-contacto:hover {
+    color: #007bff;
+    text-decoration: none; }
+
 /*# sourceMappingURL=main.css.map */
