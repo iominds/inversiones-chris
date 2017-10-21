@@ -20,6 +20,9 @@ nav {
       font-size: 25px; }
 
 footer {
+  position: relative;
+  margin-top: 10px;
+  clear: both;
   background-color: #343a40;
   font-size: 14px;
   text-align: center;
