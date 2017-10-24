@@ -15,6 +15,11 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/hover-min.css">
     <link rel="stylesheet" href="css/animated.css">
+
+
+
+
+
   </head>
 <body>
     <!--inicio del meunu-->
@@ -62,11 +67,19 @@
 </nav>
 <br>
 <!---->
-  <div class="container-fluid">
-      <h1 class="tx" align="center">Libros</h1>
-      <hr><br>
-      <div class="col-sm-12 ">
+  <div class="container-fluid" >
+
+        <nav class="navbar navbar-light bg-light justify-content-between">
+          <a class="navbar-brand tx">Libros</a>
+            <form class="form-inline">
+              <input class="form-control mr-sm-2"   type="search" placeholder="Buscar libro" aria-label="Search">
+            </form>
+        </nav>
+      <hr>
+
+      <div class="col-sm-12" >
         <div class="row justify-content-center">  
+          
           <div class="card margen-libros text-center" style="width: 15rem;">
             <img class="card-img-top rounded hvr-grow" src="img/a.jpg" alt="Card image cap">
             <div class="card-body">
@@ -197,7 +210,7 @@
           <div class="card margen-libros text-center" style="width: 15rem;">
             <img class="card-img-top rounded hvr-grow" src="img/u.jpg" alt="Card image cap">
             <div class="card-body">
-              <h4 class="card-title">Oliwe twist</h4>
+              <h4 class="card-title">Oliver twist</h4>
               <p class="card-text">Charles Dickens</p>
               <p class="card-text"> 50 <strong>LPS</strong></p>
             </div>
@@ -288,11 +301,15 @@
             </div>
           </div>
 
+  
+
       </div>
     </div>
   </div>
   <br>
   
+
+
 <!--footer de nuestras paginas -->
 <footer  id="contacto"><br>
   <ul class="redes-sociales">
@@ -312,6 +329,7 @@
     <script src="js/jQuery.js"></script>
     <script src="js/popper.js"></script>
     <script src="js/Bootstrap.js"></script>
+    
 
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
