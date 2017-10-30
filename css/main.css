@@ -136,6 +136,10 @@ body, html {
   font-family: "Lora", serif;
   text-transform: lowercase; }
 
+.infs {
+  font-size: 17px;
+  font-family: "Lora", serif; }
+
 iframe {
   width: 100%;
   frameborder: 0;
