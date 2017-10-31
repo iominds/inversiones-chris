@@ -1,4 +1,4 @@
-#Inversiones Chris S, de R.L.
+
 ![logo](https://iominds.github.io/inversiones-chris/img2/logo.png "ic")
 
 
