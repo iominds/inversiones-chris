@@ -4,18 +4,18 @@
 
 # Ubicación / Identidad
 >San pedro sula, Boulevard Morazan
-    - Ubicado en: Sur-oeste urbano el centro.
-    - Calle: 1
-    - Ave: 6 - 7
-    - R.T.N : 05019015783767
+- Ubicado en: Sur-oeste urbano el centro.
+- Calle: 1
+- Ave: 6 - 7
+- R.T.N : 05019015783767
 
 # Rubro de la empresa
->Empresa dedicada a la venta de:
-    - Libros
-    - Papeleria
-    - Utiles escolares
-    - Materiales de oficina  
-    - Servicios de imprenta
+Empresa dedicada a la venta de:
+- Libros
+- Papeleria
+- Utiles escolares
+- Materiales de oficina  
+- Servicios de imprenta
 Contamos con los mejores precios del mercado atendiendole de manera agradable,
 haciendo unica su visita en nuestras instalaciones, si desea ponerse en contacto con nosotros puede hacerlo desde aqui <a href="https://iominds.github.io/inversiones-chris/contacto.html" target="_blank" style="text-decoration: none;">Formulario de contacto</a>.
 
