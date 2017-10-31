@@ -1,13 +1,14 @@
 <h1 style="text-align: center;"> Inversiones Chris S, de R.L.</h1>
-![logo](img2/logo.png "ic")
+![logo](https://iominds.github.io/inversiones-chris/img2/logo.png "ic")
 
 
->
 # Ubicación / Identidad
->- Ubicado en: Sur-oeste urbano el centro.
-- Calle: 1
-- Ave: 6 - 7
-- R.T.N : 05019015783767
+>San pedro sula, Boulevard Morazan
+    - Ubicado en: Sur-oeste urbano el centro.
+    - Calle: 1
+    - Ave: 6 - 7
+    - R.T.N : 05019015783767
+
 # Rubro de la empresa
 >Empresa dedicada a la venta de:
     - Libros
