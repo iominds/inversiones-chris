@@ -45,10 +45,11 @@ __*Listado de herramientas a  usar en el desarrollo del proyecto:*__
     + Filterizr
     + Popper
 - Github
-- Markdown (document)
+- Markdown (readme.md)
 - Google chrome
 - Sublime-text 3
-- Coffee
+- Coffe
+
 Estas son las herramientas con la que se estara desarrollando el proyecto <a href="https://iominds.github.io/inversiones-chris/" target="_blank" style="text-decoration: none;">Inversiones chris</a> el cual debe ser presentado el 2/11/17. Ya funcionando y sin errores. 
 
 ### Pruebas y validaciones
@@ -56,7 +57,7 @@ Estas son las herramientas con la que se estara desarrollando el proyecto <a hre
 - <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank" style="text-decoration: none;">PageSpeed Insights</a>
 
 <hr><br>
-<strong>Inversiones Chris S, de R.L.</strong> hace constar que el proyecto de __Desarrollo web__ a sido todo un exito.
+<strong>Inversiones Chris S, de R.L.</strong> hace constar que el proyecto de <strong>Desarrollo web</strong> a sido todo un exito.
 <hr><br>
 
 Alojamiento del sitio web <a href="https://github.com/iominds/inversiones-chris" target="_blank" style="text-decoration: none;">Github.com/inversiones-chris</a> contiene todos los archivos del sitio web.
