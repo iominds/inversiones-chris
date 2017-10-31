@@ -36,6 +36,10 @@ footer {
 @font-face {
   font-family: arcade;
   src: url("../fonts/ARCADE.ttf"); }
+@font-face {
+  font-family: Lora-Italic;
+  src: url("../fonts/Lora-Italic.ttf"); }
+/*    <link href="https://fonts.googleapis.com/css?family=Lora:400i" rel="stylesheet"> */
 .hero {
   /* The image used */
   background-image: url(../img/hero.png);
@@ -127,6 +131,10 @@ footer {
 @font-face {
   font-family: arcade;
   src: url("../fonts/ARCADE.ttf"); }
+@font-face {
+  font-family: Lora-Italic;
+  src: url("../fonts/Lora-Italic.ttf"); }
+/*    <link href="https://fonts.googleapis.com/css?family=Lora:400i" rel="stylesheet"> */
 p {
   font-family: "lora", serif; }
 
