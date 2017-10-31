@@ -3,7 +3,7 @@
 
 
 # Ubicación / Identidad
->San pedro sula, Boulevard Morazan
+>San Pedro Sula, Boulevard Morazan
 - Ubicado en: Sur-oeste urbano el centro.
 - Calle: 1
 - Ave: 6 - 7
@@ -57,7 +57,7 @@ Estas son las herramientas con la que se estara desarrollando el proyecto <a hre
 - <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank" style="text-decoration: none;">PageSpeed Insights</a>
 
 <hr><br>
-<strong>Inversiones Chris S, de R.L.</strong> hace constar que el proyecto de <strong>Desarrollo web</strong> a sido todo un exito.
+<strong>Inversiones Chris S, de R.L.</strong> hace constar que el proyecto de <strong>Desarrollo web</strong> a sido todo un exito, ya ha sido implementado y ya esta en funcionamiento, sin errores tal como fue estipulado.
 <hr><br>
 
 Alojamiento del sitio web <a href="https://github.com/iominds/inversiones-chris" target="_blank" style="text-decoration: none;">Github.com/inversiones-chris</a> contiene todos los archivos del sitio web.
