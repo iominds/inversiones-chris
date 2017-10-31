@@ -16,8 +16,9 @@ Empresa dedicada a la venta de:
 - Utiles escolares
 - Materiales de oficina  
 - Servicios de imprenta
+
 Contamos con los mejores precios del mercado atendiendole de manera agradable,
-haciendo unica su visita en nuestras instalaciones, si desea ponerse en contacto con nosotros puede hacerlo desde aqui <a href="https://iominds.github.io/inversiones-chris/contacto.html" target="_blank" style="text-decoration: none;">Formulario de contacto</a>.
+haciendo unica su visita en nuestras instalaciones, si desea ponerse en contacto con nosotros puede hacerlo desde nuestro <a href="https://iominds.github.io/inversiones-chris/contacto.html" target="_blank" style="text-decoration: none;">Formulario de contacto</a>.
 
 # Historia
 >__Inversiones Chris__ nace de una idea de emprendimiento en el año de 2016
@@ -61,4 +62,5 @@ Estas son las herramientas con la que se estara desarrollando el proyecto <a hre
 Alojamiento del sitio web <a href="https://github.com/iominds/inversiones-chris" target="_blank" style="text-decoration: none;">Github.com/inversiones-chris</a> contiene todos los archivos del sitio web.
 
 Autor: <a href="https://andricksantos.github.io/" target="_blank" style="text-decoration: none;">Andrick Santos</a>
+
 Fecha: 29/10/17
