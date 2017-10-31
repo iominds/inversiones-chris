@@ -1,5 +1,5 @@
 <h1 style="text-align: center;"> Inversiones Chris S, de R.L.</h1>
-<center>![logo](img2/https://github.com/iominds/inversiones-chris/blob/master/img2/logo.png "ic")</center>
+<center>[![logo](img2/https://github.com/iominds/inversiones-chris/blob/master/img2/logo.png "ic")]</center>
 <br>
 # Ubicación / Identidad
 >- Ubicado en: Sur-oeste urbano el centro.
