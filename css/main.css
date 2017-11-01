@@ -1,268 +1,52 @@
-* {
-  margin: 0;
-  padding: 0; }
-
-.selector-for-some-widget {
-  box-sizing: content-box; }
-
-nav {
-  font-family: "Lora", serif; }
-
-.navbar-brand {
-  font-family: arcade; }
-
-.redes-sociales {
-  list-style: none; }
-  .redes-sociales li {
-    display: inline-block; }
-    .redes-sociales li a {
-      margin: 20px;
-      font-size: 25px; }
-
-footer {
-  position: relative;
-  margin-top: 10px;
-  clear: both;
-  background-color: #343a40;
-  font-size: 14px;
-  text-align: center;
-  color: white; }
-  footer a {
-    color: white; }
-    footer a:hover {
-      color: white;
-      text-decoration: none; }
-
-@font-face {
-  font-family: arcade;
-  src: url("../fonts/ARCADE.ttf");
-  font-family: Lora;
-  src: url("../fonts/Lora-Italic.ttf"); }
-/*    <link href="https://fonts.googleapis.com/css?family=Lora:400i" rel="stylesheet"> */
-.hero {
-  /* The image used */
-  background-image: url(../img/hero.png);
-  height: 60%;
-  /* Position and center the image to scale nicely on all screens */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative; }
-
-/* Place text in the middle of the image */
-.lista {
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: 15px;
-  padding-left: 15px;
-  width: 100%;
-  text-align: left;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white; }
-  .lista p {
-    padding: 10px;
-    font-size: 25px; }
-
-.card-text {
-  text-align: center; }
-
-.imgcard {
-  padding: 10px; }
-
-.textcard:hover {
-  color: green; }
-
-.slide-img {
-  width: 90%;
-  margin: auto;
-  height: 600px; }
-
-@font-face {
-  font-family: arcade;
-  src: url("../fonts/ARCADE.ttf");
-  font-family: Lora;
-  src: url("../fonts/Lora-Italic.ttf"); }
-/*    <link href="https://fonts.googleapis.com/css?family=Lora:400i" rel="stylesheet"> */
-p {
-  font-family: "lora", serif; }
-
-.rede-sociales {
-  list-style: none;
-  font-family: "lora", serif; }
-  .rede-sociales a {
-    font-size: 20px;
-    line-height: 2; }
-    .rede-sociales a:hover {
-      text-decoration: none; }
-
-.pad {
-  padding: 5px; }
-
-/* The hero image */
-body, html {
-  height: 100%; }
-
-.hero-image {
-  /* The image used */
-  background-image: url(../img/img1.jpg);
-  height: 50%;
-  /* Position and center the image to scale nicely on all screens */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative; }
-
-/* Place text in the middle of the image */
-.hero-text {
-  text-align: left;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-  width: 100%; }
-
-.text {
-  font-size: 28px;
-  color: white;
-  font-family: "Lora", serif;
-  letter-spacing: 0.1em; }
-
-.qs {
-  font-size: 50px;
-  color: black;
-  font-family: "Lora", serif;
-  letter-spacing: 0.1em; }
-
-.tx {
-  font-size: 28px;
-  color: black;
-  font-family: "Lora", serif;
-  letter-spacing: 0.1em; }
-
-.inf {
-  font-size: 17px;
-  font-family: "Lora", serif;
-  text-transform: lowercase; }
-
-.infs {
-  font-size: 17px;
-  font-family: "Lora", serif; }
-
-iframe {
-  width: 100%;
-  frameborder: 0;
-  border: 0 allowfullscreen;
-  border-radius: 5px; }
-
-.margen-libros {
-  margin: 10px;
-  padding: 2px; }
-
-.filtr-item {
-  padding: 1rem; }
-
-.filtr-item2 {
-  margin: 5px; }
-
-.item-desc {
-  background-color: rgba(0, 0, 0, 0.5);
-  color: white;
-  position: absolute;
-  text-transform: uppercase;
-  text-align: center;
-  padding: 1rem;
-  z-index: 1;
-  bottom: 1rem;
-  left: 1rem;
-  right: 1rem; }
-
-.item-desc2 {
-  background-color: rgba(0, 0, 0, 0.5);
-  color: white;
-  position: absolute;
-  text-transform: uppercase;
-  text-align: center;
-  padding: 1rem;
-  z-index: 1;
-  bottom: 0.1rem;
-  left: 0.1rem;
-  right: 0.1rem; }
-
-.container-a {
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto; }
-
-.img-responsive {
-  display: block;
-  max-width: 100%;
-  height: auto; }
-
-img {
-  vertical-align: middle;
-  border: 0; }
-
-.formulario-de-contacto {
-  color: #007bff; }
-  .formulario-de-contacto:hover {
-    color: #007bff;
-    text-decoration: none; }
-
-.filtr-container {
-  width: 100%;
-  height: auto; }
-
-@media (max-width: 767px) {
-  .hero {
-    /* The image used */
-    background-image: url(../img/hero.png);
-    height: 50%;
-    /* Position and center the image to scale nicely on all screens */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    opacity: 0.8; }
-
-  /* Place text in the middle of the image */
-  .lista {
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 15px;
-    padding-left: 15px;
-    width: 100%;
-    text-align: left;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white; }
-    .lista p {
-      padding: 5px;
-      font-size: 25px; }
-
-  .slide {
-    display: none; } }
-@media (max-width: 568px) {
-  .lista {
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 15px;
-    padding-left: 15px;
-    width: 100%;
-    text-align: left;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white; }
-    .lista p {
-      padding: 5px;
-      font-size: 20px; } }
-
-/*# sourceMappingURL=main.css.map */
+*{margin:0;padding:0;}
+.selector-for-some-widget{box-sizing:content-box;}
+nav{font-family:"Lora", serif;}
+.navbar-brand{font-family:arcade;}
+.redes-sociales{list-style:none;}
+.redes-sociales li{display:inline-block;}
+.redes-sociales li a{margin:20px;font-size:25px;}
+footer{position:relative;margin-top:10px;clear:both;background-color:#343a40;font-size:14px;text-align:center;color:white;}
+footer a{color:white;}
+footer a:hover{color:white;text-decoration:none;}
+@font-face{font-family:arcade;src:url("../fonts/ARCADE.ttf");font-family:Lora;src:url("../fonts/Lora-Italic.ttf");}
+.hero{background-image:url(../img/hero.png);height:60%;background-position:center;background-repeat:no-repeat;background-size:cover;position:relative;}
+.lista{margin-right:auto;margin-left:auto;padding-right:15px;padding-left:15px;width:100%;text-align:left;position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);color:white;}
+.lista p{padding:10px;font-size:25px;}
+.card-text{text-align:center;}
+.imgcard{padding:10px;}
+.textcard:hover{color:green;}
+.slide-img{width:90%;margin:auto;height:600px;}
+@font-face{font-family:arcade;src:url("../fonts/ARCADE.ttf");font-family:Lora;src:url("../fonts/Lora-Italic.ttf");}
+p{font-family:"lora", serif;}
+.rede-sociales{list-style:none;font-family:"lora", serif;}
+.rede-sociales a{font-size:20px;line-height:2;}
+.rede-sociales a:hover{text-decoration:none;}
+.pad{padding:5px;}
+body, html{height:100%;}
+.hero-image{background-image:url(../img/img1.jpg);height:50%;background-position:center;background-repeat:no-repeat;background-size:cover;position:relative;}
+.hero-text{text-align:left;position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);color:white;width:100%;}
+.text{font-size:28px;color:white;font-family:"Lora", serif;letter-spacing:0.1em;}
+.qs{font-size:50px;color:black;font-family:"Lora", serif;letter-spacing:0.1em;}
+.tx{font-size:28px;color:black;font-family:"Lora", serif;letter-spacing:0.1em;}
+.inf{font-size:17px;font-family:"Lora", serif;text-transform:lowercase;}
+.infs{font-size:17px;font-family:"Lora", serif;}
+iframe{width:100%;frameborder:0;border:0 allowfullscreen;border-radius:5px;}
+.margen-libros{margin:10px;padding:2px;}
+.filtr-item{padding:1rem;}
+.filtr-item2{margin:5px;}
+.item-desc{background-color:rgba(0, 0, 0, 0.5);color:white;position:absolute;text-transform:uppercase;text-align:center;padding:1rem;z-index:1;bottom:1rem;left:1rem;right:1rem;}
+.item-desc2{background-color:rgba(0, 0, 0, 0.5);color:white;position:absolute;text-transform:uppercase;text-align:center;padding:1rem;z-index:1;bottom:0.1rem;left:0.1rem;right:0.1rem;}
+.container-a{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto;}
+.img-responsive{display:block;max-width:100%;height:auto;}
+img{vertical-align:middle;border:0;}
+.formulario-de-contacto{color:#007bff;}
+.formulario-de-contacto:hover{color:#007bff;text-decoration:none;}
+.filtr-container{width:100%;height:auto;}
+@media (max-width:767px){.hero{background-image:url(../img/hero.png);height:50%;background-position:center;background-repeat:no-repeat;background-size:cover;position:relative;opacity:0.8;}
+.lista{margin-right:auto;margin-left:auto;padding-right:15px;padding-left:15px;width:100%;text-align:left;position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);color:white;}
+.lista p{padding:5px;font-size:25px;}
+.slide{display:none;}
+}
+@media (max-width:568px){.lista{margin-right:auto;margin-left:auto;padding-right:15px;padding-left:15px;width:100%;text-align:left;position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);color:white;}
+.lista p{padding:5px;font-size:20px;}
+}
