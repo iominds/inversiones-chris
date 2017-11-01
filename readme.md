@@ -80,6 +80,7 @@ Alojamiento del sitio web <a href="https://github.com/iominds/inversiones-chris"
 ## Enlaces y recursos
 - [W3schools](https://www.w3schools.com/)
 - [Sass](http://sass-lang.com/)
+- [Ruby](https://www.ruby-lang.org/es/)
 - [Iconos](https://icomoon.io/)
 - [Bootstrap](http://getbootstrap.com/)
 - [Jquery](https://jquery.com/)
