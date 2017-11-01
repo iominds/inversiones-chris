@@ -54,6 +54,19 @@ __*Listado de herramientas a  usar en el desarrollo del proyecto:*__
 
 Estas son las herramientas con la que se estara desarrollando el proyecto <a href="https://iominds.github.io/inversiones-chris/" target="_blank" style="text-decoration: none;">Inversiones chris</a> el cual debe ser presentado el 2/11/17. Ya funcionando y sin errores. 
 
+# Estructuración del sitio web [Inversiones chris](https://iominds.github.io/inversiones-chris/)
+- Inicio
+- Categorias
+    + Libros
+    + Utiles escolares
+- Servicios de imprenta
+    + Offset
+    + Empastado
+    + Impresión digital
+    + Talonarios
+- Sobre nosotros
+- Contacto
+
 ### Pruebas y validaciones
 - <a href="https://validator.w3.org/" target="_blank" style="text-decoration: none;">Markup Validation Service</a>
 - <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank" style="text-decoration: none;">PageSpeed Insights</a>
