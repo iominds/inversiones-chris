@@ -55,27 +55,42 @@ __*Listado de herramientas a  usar en el desarrollo del proyecto:*__
 Estas son las herramientas con la que se estara desarrollando el proyecto <a href="https://iominds.github.io/inversiones-chris/" target="_blank" style="text-decoration: none;">Inversiones chris</a> el cual debe ser presentado el 2/11/17. Ya funcionando y sin errores. 
 
 # Estructuración del sitio web [Inversiones chris](https://iominds.github.io/inversiones-chris/)
-- Inicio
+- Inicio [index](https://github.com/iominds/inversiones-chris/blob/master/index.html)
 - Categorias
-    + Libros
-    + Utiles escolares
+    + Libros [libros](https://github.com/iominds/inversiones-chris/blob/master/libros.html)
+    + Utiles escolares [utiles-escolares](https://github.com/iominds/inversiones-chris/blob/master/utiles-escolares.html)
 - Servicios de imprenta
-    + Offset
-    + Empastado
-    + Impresión digital
-    + Talonarios
-- Sobre nosotros
-- Contacto
+    + Offset [offset](https://github.com/iominds/inversiones-chris/blob/master/offset.html)
+    + Empastado [empastado](https://github.com/iominds/inversiones-chris/blob/master/empastado.html)
+    + Impresión digital [impresion-digital](https://github.com/iominds/inversiones-chris/blob/master/impresion-digital.html)
+    + Talonarios [talonarios](https://github.com/iominds/inversiones-chris/blob/master/talonarios.html)
+- Sobre nosotros [quienes-somos](https://github.com/iominds/inversiones-chris/blob/master/quienes-somos.html)
+- Contacto [contacto](https://github.com/iominds/inversiones-chris/blob/master/contacto.html)
 
 ### Pruebas y validaciones
 - <a href="https://validator.w3.org/" target="_blank" style="text-decoration: none;">Markup Validation Service</a>
 - <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank" style="text-decoration: none;">PageSpeed Insights</a>
 
-<hr><br>
+# Constancia
 <strong>Inversiones Chris S, de R.L.</strong> hace constar que el proyecto de <strong>Desarrollo web</strong> a sido todo un exito, ya ha sido implementado y ya esta en funcionamiento, sin errores tal como fue estipulado.
 <hr><br>
 
 Alojamiento del sitio web <a href="https://github.com/iominds/inversiones-chris" target="_blank" style="text-decoration: none;">Github.com/inversiones-chris</a> contiene todos los archivos del sitio web.
+
+## Enlaces y recursos
+- [W3schools](https://www.w3schools.com/)
+- [Sass](http://sass-lang.com/)
+- [Iconos](https://icomoon.io/)
+- [Bootstrap](http://getbootstrap.com/)
+- [Jquery](https://jquery.com/)
+- [Hover](http://ianlunn.github.io/Hover/)
+- [Filterizr](http://yiotis.net/filterizr/)
+- [Popper](https://github.com/jhsware/inferno-popper)
+- [GitHub](https://github.com/)
+- [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Google chrome](https://www.google.com/chrome/browser/desktop/index.html)
+- [Sublime-text](https://www.sublimetext.com/)
+- [Coffee](https://qzprod.files.wordpress.com/2017/03/smoking-coffee-cigarette-caffeine.jpg?quality=80&strip=all)
 
 Autor: <a href="https://andricksantos.github.io/" target="_blank" style="text-decoration: none;">Andrick Santos</a>
 
