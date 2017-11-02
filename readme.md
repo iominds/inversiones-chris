@@ -72,9 +72,11 @@ Estas son las herramientas con la que se estara desarrollando el proyecto <a hre
 - <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank" style="text-decoration: none;">PageSpeed Insights</a>
 
 # Constancia
-<strong>Inversiones Chris S, de R.L.</strong> hace constar que el proyecto de <strong>Desarrollo web</strong> a sido todo un exito, ya ha sido implementado y ya esta en funcionamiento, sin errores tal como fue estipulado.
-<hr><br>
+<strong>Inversiones Chris S, de R.L.</strong> proyecto desarrollado por <strong>[Andrick Santos](https://andricksantos.github.io/)</strong> 
 
+[Contancia]()
+
+## Alojamiento
 Alojamiento del sitio web <a href="https://github.com/iominds/inversiones-chris" target="_blank" style="text-decoration: none;">Github.com/inversiones-chris</a> contiene todos los archivos del sitio web.
 
 ## Enlaces y recursos
