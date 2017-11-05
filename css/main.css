@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css?family=Lora:400i");
 * {
   margin: 0;
   padding: 0; }
@@ -76,11 +75,11 @@ footer {
   height: 600px; }
 
 @font-face {
-  font-family: "Lora";
-  src: url("../fonts/Lora-Italic.ttf");
+  font-family: Lora;
+  src: url("../fonts/LORA.ttf"); }
+@font-face {
   font-family: arcade;
   src: url("../fonts/ARCADE.ttf"); }
-/*    <link href="https://fonts.googleapis.com/css?family=Lora:400i" rel="stylesheet"> */
 p {
   font-family: "lora", serif; }
 
