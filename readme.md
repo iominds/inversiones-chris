@@ -47,6 +47,7 @@ __*Listado de herramientas a  usar en el desarrollo del proyecto:*__
     + Filterizr
     + Popper
 - Github
+    + Git
 - Markdown (readme.md)
 - Google chrome
 - Sublime-text 3
