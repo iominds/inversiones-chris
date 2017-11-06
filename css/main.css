@@ -74,6 +74,16 @@ footer {
   margin: auto;
   height: 600px; }
 
+.color {
+  background-color: #BDBDBD; }
+
+.texto {
+  font-family: lora;
+  text-align: center; }
+
+.zx:hover {
+  text-decoration: none; }
+
 @font-face {
   font-family: Lora;
   src: url("../fonts/LORA.ttf"); }
