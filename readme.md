@@ -23,7 +23,7 @@ Contamos con los mejores precios del mercado atendiendole de manera agradable,
 haciendo unica su visita en nuestras instalaciones, si desea ponerse en contacto con nosotros puede hacerlo desde nuestro <a href="https://iominds.github.io/inversiones-chris/contacto.html" target="_blank" style="text-decoration: none;">Formulario de contacto</a>.
 
 # Historia
->__Inversiones Chris__ nace de una idea de emprendimiento en el año de 2016
+>__Inversiones Chris__ nace de una idea de emprendimiento a mediados del año de 2016 
 
 ## Visión
 >Ser la primera opción para nuestros socios de negocios, expandiendo nuestro mercado a nivel nacional y adelantándonos a las necesidades de nuestros clientes, ofreciendo los más altos estándares de calidad enmarcados en la búsqueda permanente de la excelencia.
@@ -74,7 +74,7 @@ Estas son las herramientas con la que se estara desarrollando el proyecto <a hre
 # Constancia
 <strong>Inversiones Chris S, de R.L.</strong> proyecto desarrollado por <strong>[Andrick Santos](https://andricksantos.github.io/)</strong> 
 
-[Contancia]()
+[Contancia](https://iominds.github.io/inversiones-chris/img2/logo.png)
 
 ## Alojamiento
 Alojamiento del sitio web <a href="https://github.com/iominds/inversiones-chris" target="_blank" style="text-decoration: none;">Github.com/inversiones-chris</a> contiene todos los archivos del sitio web.
