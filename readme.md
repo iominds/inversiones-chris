@@ -23,7 +23,7 @@ Contamos con los mejores precios del mercado atendiendole de manera agradable,
 haciendo unica su visita en nuestras instalaciones, si desea ponerse en contacto con nosotros puede hacerlo desde nuestro <a href="https://iominds.github.io/inversiones-chris/contacto.html" target="_blank" style="text-decoration: none;">Formulario de contacto</a>.
 
 # Historia
->__Inversiones Chris__ nace de una idea de emprendimiento a mediados del año de 2016 
+>A mediados del año 2016, surge la idea de emprender un nuevo proyecto en el cual no tenia ni la mas minima idea de que tipo de proyecto emprender, estaba indesiso con muchas ideas en la cabeza pero un dia pensando con cabeza fria se nos ocurrio un nuevo proyecto el cual seria una libreria o  algo relacionado con la educación, una ves que nos decidimos por cual seria el proyecto debiamos ponerle un nombre el cual estaba necio que tenia que llevar __Chris__ si o si es mas que todo por custiones personales, entonces empezamos a buscar algo para completar el nombre y despues de tantas ideas salio __Inversiones chris__ un nombre generico, al momento de constituir el negocio no se tuvo ningun problema todo hasta la fecha a marchado bien. 
 
 ## Visión
 >Ser la primera opción para nuestros socios de negocios, expandiendo nuestro mercado a nivel nacional y adelantándonos a las necesidades de nuestros clientes, ofreciendo los más altos estándares de calidad enmarcados en la búsqueda permanente de la excelencia.
