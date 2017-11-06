@@ -75,7 +75,7 @@ Estas son las herramientas con la que se estara desarrollando el proyecto <a hre
 # Constancia
 <strong>Inversiones Chris S, de R.L.</strong> proyecto desarrollado por <strong>[Andrick Santos](https://andricksantos.github.io/)</strong> 
 
-[Contancia](https://iominds.github.io/inversiones-chris/img2/constancia.jpg)
+[Contancia](https://iominds.github.io/inversiones-chris/img/constancia.jpg)
 
 ## Alojamiento
 Alojamiento del sitio web <a href="https://github.com/iominds/inversiones-chris" target="_blank" style="text-decoration: none;">Github.com/inversiones-chris</a> contiene todos los archivos del sitio web.
