@@ -98,4 +98,4 @@ Alojamiento del sitio web <a href="https://github.com/iominds/inversiones-chris"
 
 Autor: <a href="https://andricksantos.github.io/" target="_blank" style="text-decoration: none;">Andrick Santos</a>
 
-Fecha: 29/10/17
+Fecha: 06/11/17
