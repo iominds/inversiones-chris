@@ -31,7 +31,15 @@ Primary use:
   src: url('../fonts/Lato/Lato-Bold.ttf'); 
 }
 
-
+.casa{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  color: #fff;
+  letter-spacing: .5px;
+}
 
 /*//////////////////////////////////////////////////////////////////
 [ RS PLUGIN ]*/
