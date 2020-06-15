@@ -31,6 +31,9 @@ Primary use:
   src: url('../fonts/Lato/Lato-Bold.ttf'); 
 }
 
+.logo{
+  width: 70%;
+}
 .casa{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
@@ -91,7 +94,7 @@ input.input100 {
   top: -2px;
   left: -2px;
   pointer-events: none;
-  border: 2px solid #57b846;
+  border: 2px solid #3b5998;
   border-radius: 5px;
 
   visibility: hidden;
@@ -249,6 +252,7 @@ input.input100 {
   font-weight: bolder;
   letter-spacing: .2rem;
   text-align: center;
+  padding: 10px;
 }
 
 .m1-txt2 {
@@ -339,7 +343,8 @@ input.input100 {
 .bg3 {background-color: #3b5998;}
 .bg4 {background-color: #1da1f2;}
 .bg5 {background-color: #cd201f;}
-.bg6 {background-color: #cc6424;}
+.bg6 {background-color: #1c1c1c;}
+
 
 .bg-img1 {
   background-position: center;
@@ -482,7 +487,7 @@ input.input100 {
 .hov-bg0:hover {background-color: #fff;}
 /*---------------------------------------------*/
 .hov1:hover {
-  background-color: blue;
+  background-color: #3b5998;
   color: #fff;
 }
 
